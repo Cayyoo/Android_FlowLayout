@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\FlowLayout_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\FlowLayout_Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\FlowLayout_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Downloads\\FlowLayout_Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\flow\\FlowLayout_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\flow\\FlowLayout_Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\flow\\FlowLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\flow\\FlowLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
