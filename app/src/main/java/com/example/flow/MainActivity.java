@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
+import android.widget.Toast;
 
 /**
  * 自定义ViewGroup
@@ -59,7 +60,7 @@ public class MainActivity extends ActionBarActivity {
 			tv.setOnClickListener(new OnClickListener() {
 				@Override
 				public void onClick(View v) {
-
+                                    Toast.makeText(MainActivity.this,"您点击了："+str, Toast.LENGTH_SHORT).show();
 				}
 			});
 
